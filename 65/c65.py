@@ -1,0 +1,1 @@
+for _ in[I:=input]*int(I()):print('0x%06X'%(0xFFFFFF-int(I(),16)))
